@@ -105,7 +105,7 @@
             },
             {
                 "name": "REALM-QUESTION",
-                "imgsrc": "https://github.com/caioalvesDev/Portfolio-dev/blob/6ad1ed39691c4db8aa4ccc7a98be79e49c686c63/src/assets/img/node-logo.png",
+                "imgsrc": "",
                 "stacks": ["EJS", "JAVASCRIPT", "SEQUELIZE", "MySQL", "BOOTSTRAP", "HTML/CSS"],
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio at cum, sit dolor earum quia nostrum eveniet consectetur consequuntur repellat. Tempore provident aliquam earum quos, quae natus voluptas ullam necessitatibus.",
                 "linkrepositorie": "https://github.com/caioalvesDev/REALM-QUESTION",
