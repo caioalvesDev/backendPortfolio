@@ -85,7 +85,7 @@
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo corrupti magni corporis repudiandae voluptatibus, omnis nisi fugit tenetur dignissimos mollitia reiciendis aliquam quasi ullam, delectus officiis cupiditate provident dolores saepe! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur deserunt unde quas minima voluptatibus! Neque, nobis culpa odit provident modi doloremque exercitationem pariatur ipsum ut ea, sit corporis earum eaque?"
     }
       ],
-     "projects": [
+     "projects": {
            "javascript":[
             {
                 "name": "KH-BANK",
@@ -139,6 +139,6 @@
                 "linkProject": ""
             }
         ]     
-     ]
+     }
 }
 
