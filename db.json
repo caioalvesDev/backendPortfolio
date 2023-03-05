@@ -89,7 +89,7 @@
            "javascript":[
             {
                 "name": "KH-BANK",
-                "imgsrc": "node-logo.pnh",
+                "imgsrc": "node-logo.png",
                 "stacks": ["NODEJS", "JAVASCRIPT"],
                 "description": "Este mini sistema consigo fazer operações básicas de um banco como, criar conta, depositar, sacar, consultar e transferir. as operações são feitas através de linhas de terminal.Para melhorar a visualização e melhor feedback visual utilizei duas blibliotecas: Inquirer e Chalk",
                 "linkrepositorie": "https://github.com/caioalvesDev/KHBank",
