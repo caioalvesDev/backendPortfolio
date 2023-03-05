@@ -1,6 +1,5 @@
 {
-    experiencias: [
-        {name: caio}   
-    
+    "experiencias": [
+        {"name": "caio"}   
     ]
 }
