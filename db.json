@@ -89,7 +89,7 @@
            "javascript":[
             {
                 "name": "KH-BANK",
-                "imgsrc": "https://github.com/caioalvesDev/Portfolio-dev/blob/6ad1ed39691c4db8aa4ccc7a98be79e49c686c63/src/assets/img/node-logo.png",
+                "imgsrc": "",
                 "stacks": ["NODEJS", "JAVASCRIPT"],
                 "description": "Este mini sistema consigo fazer operações básicas de um banco como, criar conta, depositar, sacar, consultar e transferir. as operações são feitas através de linhas de terminal.Para melhorar a visualização e melhor feedback visual utilizei duas blibliotecas: Inquirer e Chalk",
                 "linkrepositorie": "https://github.com/caioalvesDev/KHBank",
@@ -97,7 +97,7 @@
             },
             {
                 "name": "POKE-REALM",
-                "imgsrc": "https://github.com/caioalvesDev/Portfolio-dev/blob/6ad1ed39691c4db8aa4ccc7a98be79e49c686c63/src/assets/img/vue-logo.png",
+                "imgsrc": "",
                 "stacks": ["VUEJS", "JAVASCRIPT", "BULMA", "POKEAPI", "AXIOS"],
                 "description": "Este projeto Praticamente comsome uma API(PokéApi) e mostra todos os Pokemons da primeira Em breve...são.Foi utiliado Axio para requisição, bulma para estilização.Contém uma barra de pesquisa e botão para visualizar os sprites dos respectivos Pokemons.",
                 "linkrepositorie": "https://github.com/caioalvesDev/POKE_REALM",
